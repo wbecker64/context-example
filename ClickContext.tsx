@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Aspects context type.
+ * click context type.
  */
 export type ClickContextType = {
   /** number of clicks */
